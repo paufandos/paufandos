@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/paufandos](https://github.com/paufandos)
 
-- 💬 Ask me about **JavaScript, PHP, Java, Clean Code**
+- 💬 Ask me about **Java, Clean Code**
 
 - 📫 How to reach me **fandosgorrispau@gmail.com**
 
