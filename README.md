@@ -1,24 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pau Fandos</h1>
 <h3 align="center">A passionate fullstack developer from Valencia</h3>
 
-- 🔭 I’m currently working on [Sopra Steria Valencia](https://www.soprasteria.es/)
+- 🔭 I’m currently working on Cygnus Source
 
-- 🌱 I’m currently learning **Spring and TDD**
-
-- 👨‍💻 All of my projects are available at [https://github.com/paufandos](https://github.com/paufandos)
-
-- 💬 Ask me about **Java, Clean Code**
-
-- 📫 How to reach me **fandosgorrispau@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/paufandos](https://github.com/- 💬 Ask me about **Java, Clean Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/paufandos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="paufandos" height="30" width="40" /></a>
-<a href="https://twitter.com/paufandos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paufandos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pau-fandos-gorris-8a9aa7229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pau-fandos-gorris-8a9aa7229" height="30" width="40" /></a>
-<a href="https://fb.com/paufandos2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paufandos2" height="30" width="40" /></a>
-<a href="https://instagram.com/paufandos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paufandos" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/paufandosgorris6515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="paufandosgorris6515" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
