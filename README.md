@@ -1,8 +1,8 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=211916&amp;height=260&amp;section=header&amp;text=Pau%20Fandos&amp;fontColor=FFFFFF&amp;fontSize=56&amp;fontAlignY=38&amp;desc=Software%20developer%20%C2%B7%20Java%2C%20Spring%20%26%20Angular%20%C2%B7%20AI%20integration&amp;descAlignY=60&amp;descSize=18"
-  alt="Pau Fandos · Software developer · Java, Spring & Angular · AI integration"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=211916&amp;height=260&amp;section=header&amp;text=Pau%20Fandos&amp;fontColor=FFFFFF&amp;fontSize=56&amp;fontAlignY=38&amp;desc=Software%20developer%20%C2%B7%20Java%2C%20Spring%20and%20Angular%20%C2%B7%20AI%20integration&amp;descAlignY=60&amp;descSize=18"
+  alt="Pau Fandos · Software developer · Java, Spring and Angular · AI integration"
   width="100%"
 />
 
