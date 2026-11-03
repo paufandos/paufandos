@@ -1,31 +1,17 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0A0A0A&amp;height=300&amp;section=header&amp;text=Pau%20Fandos%20GitHub%20%F0%9F%9A%80&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Software%20developer%20%C2%B7%20Space%20enthusiast%20%C2%B7%20Engineering-minded%20backend&amp;descAlignY=62&amp;descSize=16"
-  alt="Welcome banner"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=211916&amp;height=260&amp;section=header&amp;text=Pau%20Fandos&amp;fontColor=FFFFFF&amp;fontSize=56&amp;fontAlignY=38&amp;desc=Software%20developer%20%C2%B7%20Java%2C%20Spring%20%26%20Angular%20%C2%B7%20AI%20integration&amp;descAlignY=60&amp;descSize=18"
+  alt="Pau Fandos · Software developer · Java, Spring & Angular · AI integration"
   width="100%"
 />
-<div align="center" style="margin-top: 40px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=✨+Welcome+to+my+GitHub+repo!;🚀+Building+dreams+with+code;💫+Every+bug+is+a+new+adventure!" alt="Typing Animation" />
-</div>
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paufandos&bg_color=000&color=fff&line=fff&point=f5680a&area=true&hide_border=true" width="90%" alt="Activity Graph" />
-</div>
-<br/>
-<div align="center" style="margin-top: 30px;">
-  <a href="https://linkedin.com/in/pau-fandos-gorris-8a9aa7229"><img src="https://img.shields.io/badge/LINKEDN-000?style=for-the-badge&logo=heart&logoColor=white" alt="Code with Love" /></a>
-  <a href=""><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=bug&logoColor=white" alt="Debug Ninja" /></a>
-  <a href="https://paufandos.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=star&logoColor=white" alt="Dream in Code" /></a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,git,github,angular,ts,js,html,css&amp;perline=11" alt="Technologies" />
-</div>
-<div align="center">
-  <sub>
-    <kbd>Clean Architecture</kbd> <kbd>Hexagonal</kbd> <kbd>SOLID</kbd> <kbd>DDD (basics)</kbd> <kbd>TDD</kbd> <kbd>JUnit 5</kbd> <kbd>Mockito</kbd> <kbd>REST APIs</kbd> <kbd>Workflow orchestration</kbd> <kbd>Microservices (learning)</kbd> <kbd>Events (learning)</kbd>
-  </sub>
-</div>
+
+<a href="https://paufandos.github.io/"><img src="https://img.shields.io/badge/WEBSITE-211916?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FF7A2F" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/paufandos/"><img src="https://img.shields.io/badge/LINKEDIN-211916?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FF7A2F" alt="LinkedIn" /></a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,tailwind,elasticsearch,postgres,kotlin,swift,cloudflare,git,githubactions&amp;perline=12" alt="Java, Spring, Angular, TypeScript, Tailwind CSS, Elasticsearch, PostgreSQL, Kotlin, Swift, Cloudflare, Git, GitHub Actions" />
 
 </div>
 
@@ -33,40 +19,19 @@
 
 ## About
 
-- 💼 **Software Developer at Cygnus Source (Madrid)**
-- 💻 **Clean Code** · **Clean Architecture (Hexagonal)** · **Testing mindset (TDD)**
-- 📚 **Learning**: English, maths, physics.
-- 🎯 Long-term: exploring paths into the **space sector** (still mapping)
-
----
+- 💼 **Software developer at Cygnus Source** (Madrid): full-stack on a platform that **integrates AI models into enterprise systems**, with Spring AI, MCP, Spring Cloud Gateway, Oracle, Elasticsearch and Angular.
+- 🧱 Before that, backend developer at **Sopra Steria**: microservices, events and business processes with Camunda and Axon, applying TDD.
+- 🎓 Studying **Computer Engineering** at the Universitat Oberta de Catalunya.
+- 🏅 **Gold medal at CV Skills 2023** in web development; represented the Valencian Community at **Spain Skills 2024**.
+- 🎯 Growing towards software architecture and technical leadership.
 
 ## Projects
 
-<table width="100%" style="width:100%; border-collapse:collapse;">
-  <tr>
-    <td valign="top">
-      <h3>Portfolio</h3>
-      <sub>Professional presentation landing page</sub><br/><br/>
-      <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>SASS</kbd><br/><br/>
-      <a href="https://github.com/paufandos/Portfolio"><img src="https://skillicons.dev/icons?i=github&amp;perline=11" alt="GitHubRepo" /></a>
-    </td>
-    <td valign="top">
-      <h3>AdivinaLaPalabra</h3>
-      <sub>DAW final project: guess the word game</sub><br/><br/>
-      <kbd>Spring</kbd> <kbd>Angular</kbd> <kbd>TypeScript</kbd><br/><br/>
-      <a href="https://github.com/paufandos/AdivinaLaPalabra"><img src="https://skillicons.dev/icons?i=github&amp;perline=11" alt="GitHubRepo" /></a>
-    </td>
-    <td valign="top">
-      <h3>GifsApp</h3>
-      <sub>Angular practice app with rest requests</sub><br/><br/>
-      <kbd>Angular</kbd> <kbd>TypeScript</kbd><br/><br/>
-      <a href="https://github.com/paufandos/GifsApp"><img src="https://skillicons.dev/icons?i=github&amp;perline=11" alt="GitHubRepo" /></a>
-    </td>
-    <td valign="top">
-      <h3>SnakeGame</h3>
-      <sub>Classic Snake built with Canvas and Typescript</sub><br/><br/>
-      <kbd>JavaScript</kbd> <kbd>Canvas</kbd><br/><br/>
-      <a href="https://github.com/paufandos/SnakeGame"><img src="https://skillicons.dev/icons?i=github&amp;perline=11" alt="GitHubRepo" /></a>
-    </td>
-  </tr>
-</table>
+| Project | What it is | Stack |
+|---|---|---|
+| [**paufandos.github.io**](https://github.com/paufandos/paufandos.github.io) | My personal website, in Spanish and English | HTML · CSS · GitHub Actions |
+| **fandOS** *(private)* | Native app for iPhone, iPad and Mac to plan the day, with its own API and an MCP server for AI assistants | Swift · SwiftUI · TypeScript · Cloudflare Workers · D1 |
+| **agent-kit** *(private)* | Claude Code plugin to work with several AI agents at once: usage, alerts and parallel tasks across Claude and Codex | TypeScript · Node.js |
+| **Adivina la palabra** | Wordle-style game, final project of my web development diploma (2023) | Java · Spring Boot · Angular · MySQL |
+
+More on [my website](https://paufandos.github.io/).
