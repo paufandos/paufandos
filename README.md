@@ -6,7 +6,7 @@
   width="100%"
 />
 
-<a href="https://paufandos.github.io/"><img src="https://img.shields.io/badge/WEBSITE-211916?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FF7A2F" alt="Website" /></a>
+<a href="https://paufandos.com/"><img src="https://img.shields.io/badge/WEBSITE-211916?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FF7A2F" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/paufandos/"><img src="https://img.shields.io/badge/LINKEDIN-211916?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FF7A2F" alt="LinkedIn" /></a>
 
 <br/><br/>
@@ -29,9 +29,9 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**paufandos.github.io**](https://github.com/paufandos/paufandos.github.io) | My personal website, in Spanish and English | HTML · CSS · GitHub Actions |
+| [**portfolio**](https://github.com/paufandos/portfolio) | My personal website, in Spanish and English | HTML · CSS · GitHub Actions |
 | **fandOS** *(private)* | Native app for iPhone, iPad and Mac to plan the day, with its own API and an MCP server for AI assistants | Swift · SwiftUI · TypeScript · Cloudflare Workers · D1 |
 | **agent-kit** *(private)* | Claude Code plugin to work with several AI agents at once: usage, alerts and parallel tasks across Claude and Codex | TypeScript · Node.js |
 | **Adivina la palabra** | Wordle-style game, final project of my web development diploma (2023) | Java · Spring Boot · Angular · MySQL |
 
-More on [my website](https://paufandos.github.io/).
+More on [my website](https://paufandos.com/).
