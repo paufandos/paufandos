@@ -1,38 +1,39 @@
-<div align="center">
+# Pau Fandos
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=211916&amp;height=260&amp;section=header&amp;text=Pau%20Fandos&amp;fontColor=FFFFFF&amp;fontSize=56&amp;fontAlignY=38&amp;desc=Software%20developer%20%C2%B7%20Java%2C%20Spring%20and%20Angular&amp;descAlignY=60&amp;descSize=18"
-  alt="Pau Fandos · Software developer · Java, Spring and Angular"
-  width="100%"
-/>
+Backend developer working with Java and Spring.
 
-<a href="https://paufandos.com/"><img src="https://img.shields.io/badge/WEBSITE-211916?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FF7A2F" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/paufandos/"><img src="https://img.shields.io/badge/LINKEDIN-211916?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FF7A2F" alt="LinkedIn" /></a>
+[Website in English](https://paufandos.com/en/) · [Web en castellano](https://paufandos.com/) · [LinkedIn](https://www.linkedin.com/in/paufandos/)
 
-<br/><br/>
+I'm from Sueca and currently work at **Cygnus Source in Madrid**. I maintain applications already in production and develop a platform that connects AI assistants to business systems. My work includes conversational assistants, MCP clients and servers, and microservices behind a gateway. I work with Java and Spring on the backend and also develop the Angular frontend.
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,tailwind,elasticsearch,postgres,kotlin,swift,cloudflare,git,githubactions&amp;perline=12" alt="Java, Spring, Angular, TypeScript, Tailwind CSS, Elasticsearch, PostgreSQL, Kotlin, Swift, Cloudflare, Git, GitHub Actions" />
+Before Cygnus, I spent March 2023 to July 2025 at **Sopra Steria**, starting with my DAW internship. I developed microservices with Java and Spring Boot, worked on event integration and business processes with Camunda and Axon, and also developed with Angular. I applied TDD in Scrum and Kanban teams. I started at **Imagina IT Solutions** in Sueca, where my internship combined PHP web development with computer repair and customer support.
 
-</div>
+Alongside work, I'm studying Computer Engineering at the **Universitat Oberta de Catalunya**. I won gold in web development at **CV Skills 2023** and represented the Valencian Community at **Spain Skills 2024**.
 
----
+## What I build outside work
 
-## About
+### fandOS
 
-- 💼 I work as a **software developer at Cygnus Source** (July 2025–present, Madrid). I maintain production applications and develop an AI integration platform with Java, Spring Boot, Spring AI, MCP and Angular.
-- 🤖 I use **coding agents every day**, with Claude Code and OpenSpec.
-- 🧱 At **Sopra Steria** (March 2023–July 2025), I developed microservices, events and business processes with Java, Spring Boot, Camunda and Axon. I applied TDD and also worked with Angular.
-- 🛠️ At **Imagina IT Solutions** (March 2021–August 2022, internship), I developed websites with PHP, JavaScript and MySQL and provided IT support.
-- 🎓 I am studying for a **Bachelor’s Degree in Computer Engineering** at the Universitat Oberta de Catalunya (September 2024–present).
-- 🏅 I won **gold at CV Skills 2023** in web development and represented the Valencian Community at **Spain Skills 2024**.
+My app for organising the day on iPhone, iPad and Mac. It works offline and syncs with my API on Cloudflare Workers and D1. An AI assistant can query and modify its data through the app's MCP server. The code is private; [my website shows the app with sample data](https://paufandos.com/en/#projects).
 
-## Projects
+Swift · SwiftUI · TypeScript · Cloudflare Workers · D1 · MCP
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**portfolio**](https://github.com/paufandos/portfolio) | Personal website in Spanish and English | HTML · CSS · GitHub Actions |
-| **fandOS** *(private)* | App to organise the day on iPhone, iPad and Mac. Works offline and syncs with its own API. An AI assistant queries and modifies data through its MCP server. Screenshots on my website show the app with sample data | Swift · SwiftUI · TypeScript · Cloudflare Workers · D1 |
-| **agent-kit** *(private)* | Plugin that distributes tasks between Claude Code and Codex, monitors both quotas and warns before the limit. Leaves a handoff to resume interrupted work without repeating it | TypeScript · Node.js |
-| [**Adivina la palabra**](https://github.com/paufandos/AdivinaLaPalabra) | Final Higher Diploma in Web Application Development (DAW) project, built during an internship at Sopra Steria (March–June 2023). The backend picks the secret word, checks guesses and returns hints | Java · Spring Boot · Angular · MySQL |
+### agent-kit
 
-More on [my website](https://paufandos.com/en/).
+I built agent-kit because I work with Claude Code and Codex at the same time. It's a JavaScript command-line tool for Node.js that reads their usage and recommends which one should take a task with `ak route`.
+
+`ak run` runs a scoped task in Codex and saves its state and a handoff so it can resume after an interruption. With `ak team`, sessions share a local board and reserve their part before writing. The code is private.
+
+JavaScript · Node.js · Claude Code · Codex
+
+### [Adivina la palabra](https://github.com/paufandos/AdivinaLaPalabra)
+
+My final Higher Diploma in Web Application Development (DAW) project, completed during my internship at Sopra Steria from March to June 2023. It's a Wordle-style game in Spanish: the backend picks the secret word, checks guesses and returns the hints.
+
+Java · Spring Boot · Hibernate · MySQL · Angular
+
+### [This website](https://github.com/paufandos/portfolio)
+
+A static portfolio in Spanish and English, built with HTML and CSS. Playwright checks both versions on desktop, tablet and mobile before GitHub Actions deploys them to GitHub Pages.
+
+[CV in English (PDF)](https://paufandos.com/assets/cv/pau-fandos-cv-en.pdf) · [CV en castellano (PDF)](https://paufandos.com/assets/cv/pau-fandos-cv-es.pdf)
