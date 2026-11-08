@@ -1,6 +1,6 @@
 # Pau Fandos
 
-Full-stack software engineer, building software since 2021 · Java, Spring, Angular and AI.
+Full-stack software engineer, over four years of experience · Java, Spring, Angular and AI.
 
 [Website in English](https://paufandos.com/en/) · [Web en castellano](https://paufandos.com/) · [LinkedIn](https://www.linkedin.com/in/paufandos/)
 
