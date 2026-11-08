@@ -1,12 +1,12 @@
 # Pau Fandos
 
-Backend developer working with Java and Spring.
+Software engineer with over five years of experience · Java, Spring, Angular and AI.
 
 [Website in English](https://paufandos.com/en/) · [Web en castellano](https://paufandos.com/) · [LinkedIn](https://www.linkedin.com/in/paufandos/)
 
-I'm from Sueca and currently work at **Cygnus Source in Madrid**. I maintain applications already in production and develop a platform that connects AI assistants to business systems. My work includes conversational assistants, MCP clients and servers, and microservices behind a gateway. I work with Java and Spring on the backend and also develop the Angular frontend.
+I'm from Sueca and currently work at **Cygnus Source in Madrid**. I integrate AI models into existing business systems: I analyse their data and how it is structured, adapt them so AI models can work with them, and develop conversational assistants, MCP clients and servers and microservices with Java and Spring, plus applications with Angular. I work autonomously, can cover the full software lifecycle from analysis to testing, and use AI coding agents during development.
 
-Before Cygnus, I spent March 2023 to July 2025 at **Sopra Steria**, starting with my DAW internship. I developed microservices with Java and Spring Boot, worked on event integration and business processes with Camunda and Axon, and also developed with Angular. I applied TDD in Scrum and Kanban teams. I started at **Imagina IT Solutions** in Sueca, where my internship combined PHP web development with computer repair and customer support.
+Before Cygnus, I worked at **Sopra Steria** from March 2023 to July 2025, starting with my DAW internship. I developed microservices with Java and Spring Boot, worked on event-driven integration and business processes with Camunda and Axon, and also developed with Angular. I applied TDD in Scrum and Kanban teams, played a key part in delivering a critical, demanding project on time and presented results to clients. I started at **Imagina IT Solutions** in Sueca, with a web development internship: I built PHP websites and designed their interfaces.
 
 Alongside work, I'm studying Computer Engineering at the **Universitat Oberta de Catalunya**. I won gold in web development at **CV Skills 2023** and represented the Valencian Community at **Spain Skills 2024**.
 
@@ -14,15 +14,15 @@ Alongside work, I'm studying Computer Engineering at the **Universitat Oberta de
 
 ### fandOS
 
-My app for organising the day on iPhone, iPad and Mac. It works offline and syncs with my API on Cloudflare Workers and D1. An AI assistant can query and modify its data through the app's MCP server. The code is private; [my website shows the app with sample data](https://paufandos.com/en/#projects).
+My app for planning the day on iPhone, iPad and Mac. It works offline and syncs with my API on Cloudflare Workers and D1. An AI assistant can query and modify its data through the app's MCP server. The code is private; [my website shows the app with sample data](https://paufandos.com/en/#projects).
 
 Swift · SwiftUI · TypeScript · Cloudflare Workers · D1 · MCP
 
 ### agent-kit
 
-I built agent-kit because I work with Claude Code and Codex at the same time. It's a JavaScript command-line tool for Node.js that reads their usage and recommends which one should take a task with `ak route`.
+I built agent-kit because I work with Claude Code and Codex at the same time: Claude Code coordinates and hands out the tasks, and Codex reviews every change. It's a JavaScript command-line tool for Node.js that installs the rules and skills for both.
 
-`ak run` runs a scoped task in Codex and saves its state and a handoff so it can resume after an interruption. With `ak team`, sessions share a local board and reserve their part before writing. The code is private.
+`ak usage` shows how much of each one's usage allowance is left and `ak report` logs tool failures. The code is private.
 
 JavaScript · Node.js · Claude Code · Codex
 
