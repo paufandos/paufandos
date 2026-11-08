@@ -1,14 +1,10 @@
 # Pau Fandos
 
-Software engineer with over five years of experience · Java, Spring, Angular and AI.
+Full-stack software engineer, building software since 2021 · Java, Spring, Angular and AI.
 
 [Website in English](https://paufandos.com/en/) · [Web en castellano](https://paufandos.com/) · [LinkedIn](https://www.linkedin.com/in/paufandos/)
 
-I'm from Sueca and currently work at **Cygnus Source in Madrid**. I integrate AI models into existing business systems: I analyse their data and how it is structured, adapt them so AI models can work with them, and develop conversational assistants, MCP clients and servers and microservices with Java and Spring, plus applications with Angular. I work autonomously, can cover the full software lifecycle from analysis to testing, and use AI coding agents during development.
-
-Before Cygnus, I worked at **Sopra Steria** from March 2023 to July 2025, starting with my DAW internship. I developed microservices with Java and Spring Boot, worked on event-driven integration and business processes with Camunda and Axon, and also developed with Angular. I applied TDD in Scrum and Kanban teams, played a key part in delivering a critical, demanding project on time and presented results to clients. I started at **Imagina IT Solutions** in Sueca, with a web development internship: I built PHP websites and designed their interfaces.
-
-Alongside work, I'm studying Computer Engineering at the **Universitat Oberta de Catalunya**. I won gold in web development at **CV Skills 2023** and represented the Valencian Community at **Spain Skills 2024**.
+I'm from Sueca and work at **Cygnus Source** in Madrid, building enterprise systems and applications with Java, Spring and Angular. Part of my work is AI: bringing models into existing systems with Spring AI and MCP (Model Context Protocol). I started in web development at **Imagina IT Solutions**, moved on to microservices and event-driven projects at **Sopra Steria**, and I'm studying Computer Engineering at the **Universitat Oberta de Catalunya**. I won gold in web development at **CV Skills 2023** and took part in **Spain Skills 2024**.
 
 ## What I build outside work
 
@@ -20,7 +16,7 @@ Swift · SwiftUI · TypeScript · Cloudflare Workers · D1 · MCP
 
 ### agent-kit
 
-I built agent-kit because I work with Claude Code and Codex at the same time: Claude Code coordinates and hands out the tasks, and Codex reviews every change. It's a JavaScript command-line tool for Node.js that installs the rules and skills for both.
+I built agent-kit because I work with Claude Code and Codex at the same time. It's a JavaScript command-line tool for Node.js that installs the rules and skills for both.
 
 `ak usage` shows how much of each one's usage allowance is left and `ak report` logs tool failures. The code is private.
 
